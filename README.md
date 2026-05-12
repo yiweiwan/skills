@@ -119,22 +119,6 @@ LICENSE                          # MIT License
 - [Claude Code Skills 官方文档](https://code.claude.com/docs/en/skills)
 - [Anthropic skills 公共仓库](https://github.com/anthropics/skills)
 
-## 发布建议
-
-发布到 GitHub 前建议提交：
-
-```text
-.claude/skills/
-docs/zh-CN/
-README.md
-skills-directory.md
-CONTRIBUTING.md
-LICENSE
-.gitignore
-```
-
-不要提交本地草稿、个人文档、缓存文件或包含隐私信息的材料。
-
 ## 贡献
 
 欢迎提交新的 skill 或改进现有 skill。请参考 [CONTRIBUTING.md](CONTRIBUTING.md)。
